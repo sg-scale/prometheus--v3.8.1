@@ -18,7 +18,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ecs v1.67.2
 	github.com/aws/aws-sdk-go-v2/service/lightsail v1.50.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.39.1
-	github.com/aws/smithy-go v1.23.2
+	github.com/aws/smithy-go v1.28.8
 	github.com/bboreham/go-loser v0.0.0-20230920113527-fcc2c21820a3
 	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/dennwc/varint v1.0.0
